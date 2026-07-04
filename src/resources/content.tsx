@@ -30,12 +30,6 @@ const social: Social = [
     essential: true,
   },
   {
-    name: "Youtube",
-    icon: "youtube",
-    link: "https://www.youtube.com/@oshozair",
-    essential: true,
-  },
-  {
     name: "Instagram",
     icon: "instagram",
     link: "https://www.instagram.com/oshozair",
