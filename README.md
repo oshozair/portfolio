@@ -1,4 +1,4 @@
-This project was created using Magic portfolio by Once-UI as template.
+This project was created using Magic Portfolio by Once-UI as a template. A few changes were made to accommodate my preferences so this looks a bit different from the original template. Below is information on the original template 
 
 # Magic Portfolio
 
